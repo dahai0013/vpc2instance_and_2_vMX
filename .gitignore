@@ -1,7 +1,0 @@
-*.git
-*.terraform
-*.gitattributes
-cmd.bat
-terraform.tfstate
-terraform.tstate.backup
-terraform.tfvars
